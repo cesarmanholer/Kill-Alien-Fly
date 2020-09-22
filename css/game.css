@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,body{
+    height: 100%;
+}
+
+body{
+    background-image: URL('../images/background-game.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#timerContainer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    #timerContainer #timer{
+        font-size: 350px;
+        color: white;
+    }
+
+#bug{
+    display: none;
+    z-index: 2;
+}
+
+#score{
+    color: white;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    z-index: 0;
+}
+
+#timerBar{
+    background-color: green;
+    width: 70%;
+    height: 10%;
+    margin-left: 15%;
+    position: absolute;
+    bottom: 5%;
+    z-index: -1;
+}
+
+    #timerBar h1{
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        margin-top: 15px;
+        color: white;
+    }
+
+    #timerProgress{
+        text-align: center;
+        background-color: red;
+        height: 100%;
+        width: 0%;
+        display: block;
+    }
