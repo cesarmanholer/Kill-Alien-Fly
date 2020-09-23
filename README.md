@@ -1,6 +1,7 @@
 <h1 align="center">Kill Fly Alien</h1>
-
-![Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=for-the-badge) ![Badge](https://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=orange&style=for-the-badge)
+<span align="center">
+<img src="https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=orange&style=for-the-badge"/>
+</span>
 
 ### Topicos:
 :large_blue_diamond: [Descrição do projeo](https://github.com/cesarmanholer/Kill-Fly-Alien/)
@@ -33,5 +34,13 @@ Apos clonado o repositorio sera necessario colocar os arquivos em seu devido lug
 Caso tenha baixado o [Xampp](https://www.apachefriends.org/pt_br/index.html) vá até a pasta onde ele foi instalado (Caso tenha instalado no local padrão vá para C:/xampp),
 Apos acessar a pasta vá ate htdocs, apague todos os arquivos desta pasta e coloque o repositorio baixado nele, feito isso basta abrir o xampp (Caso não haja um icone na area de trabalho basta acessar C:/xampp/xampp-control.exe), quando o painel de controle do xampp abrir clique em start no apache, apos ficar verde acesse http://localhost/ e ja devera ver o projeto.
 
-### Contato
-![Badge](https://img.shields.io/static/v1?label=&message=Instagram&color=blue&style=for-the-badge&link=https://instagram.com/)
+### Autor
+
+Cesar Augusto Manholer
+
+:email: Email: cesarmanholer@hotmail.com
+
+<a href="https://www.facebook.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=blue&style=for-the-badge"/></a>
+<a href="https://www.instagram.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=red&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge"/></a>
+<a href="https://www.github.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge"/></a>
