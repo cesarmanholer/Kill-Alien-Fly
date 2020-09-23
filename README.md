@@ -15,12 +15,12 @@ Jogo onde o objetivo é matar o maior numero de moscas alienigenas ate o tempo a
 <img src="https://github.com/cesarmanholer/Kill-Fly-Alien/blob/master/captured.gif">
 
 ### Pré-requisitos
-Para rodar a plicação é necessario ter instalado alguma ferramenta que execute scripts PHP na versão 7.x.x, recomendo o [Xampp](https://www.apachefriends.org/pt_br/index.html).
+:warning: Para rodar a plicação é necessario ter instalado alguma ferramenta que execute scripts PHP na versão 7.x.x, recomendo o [Xampp](https://www.apachefriends.org/pt_br/index.html).
 
 ### Como rodar a aplicação
 Primeiramente clone o repositorio
-- No terminal execute: (Caso não tenha o git instalado baixe neste link [Git Download](https://git-scm.com/downloads))
-> cd downloads
+- No terminal execute: (:warning: Caso não tenha o git instalado baixe neste link [Git Download](https://git-scm.com/downloads))
+> cd downloads<br>
 > git clone https://github.com/cesarmanholer/Kill-Fly-Alien.git
 
 Feito isso o repositorio sera clonado na pasta downloads
@@ -32,3 +32,6 @@ Apos clonado o repositorio sera necessario colocar os arquivos em seu devido lug
 
 Caso tenha baixado o [Xampp](https://www.apachefriends.org/pt_br/index.html) vá até a pasta onde ele foi instalado (Caso tenha instalado no local padrão vá para C:/xampp),
 Apos acessar a pasta vá ate htdocs, apague todos os arquivos desta pasta e coloque o repositorio baixado nele, feito isso basta abrir o xampp (Caso não haja um icone na area de trabalho basta acessar C:/xampp/xampp-control.exe), quando o painel de controle do xampp abrir clique em start no apache, apos ficar verde acesse http://localhost/ e ja devera ver o projeto.
+
+### Contato
+![Badge](https://img.shields.io/static/v1?label=&message=Intagram&color=blue&style=for-the-badge&link=https://instagram.com/cesar.manholer)
