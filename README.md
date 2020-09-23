@@ -1,13 +1,13 @@
 <h1 align="center">Kill Fly Alien</h1>
-<span align="center">
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=orange&style=for-the-badge"/>
-</span>
+</p>
 
 ### Topicos:
-:large_blue_diamond: [Descrição do projeo](https://github.com/cesarmanholer/Kill-Fly-Alien/)
-:large_blue_diamond: [Layout](https://github.com/cesarmanholer/Kill-Fly-Alien/)
-:large_blue_diamond: [Pré-requisitos](https://github.com/cesarmanholer/Kill-Fly-Alien/)
-:large_blue_diamond: [Como rodar a aplicação](https://github.com/cesarmanholer/Kill-Fly-Alien/)
+:large_blue_diamond: [Descrição do projeto](https://github.com/cesarmanholer/Kill-Fly-Alien/)<br>
+:large_blue_diamond: [Layout](https://github.com/cesarmanholer/Kill-Fly-Alien/)<br>
+:large_blue_diamond: [Pré-requisitos](https://github.com/cesarmanholer/Kill-Fly-Alien/)<br>
+:large_blue_diamond: [Como rodar a aplicação](https://github.com/cesarmanholer/Kill-Fly-Alien/)<br>
 
 ### Descrição do projeto
 Jogo onde o objetivo é matar o maior numero de moscas alienigenas ate o tempo acabar, é possivel jogar no modo single player onde há somente um jogador ou no modo multiplayer onde é possivel competir com algum amigo.
