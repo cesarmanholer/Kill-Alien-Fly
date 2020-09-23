@@ -34,4 +34,4 @@ Caso tenha baixado o [Xampp](https://www.apachefriends.org/pt_br/index.html) vá
 Apos acessar a pasta vá ate htdocs, apague todos os arquivos desta pasta e coloque o repositorio baixado nele, feito isso basta abrir o xampp (Caso não haja um icone na area de trabalho basta acessar C:/xampp/xampp-control.exe), quando o painel de controle do xampp abrir clique em start no apache, apos ficar verde acesse http://localhost/ e ja devera ver o projeto.
 
 ### Contato
-![Badge](https://img.shields.io/static/v1?label=&message=Intagram&color=blue&style=for-the-badge&link=https://instagram.com/cesar.manholer)
+![Badge](https://img.shields.io/static/v1?label=&message=Instagram&color=blue&style=for-the-badge&link=https://instagram.com/)
