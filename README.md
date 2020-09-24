@@ -16,7 +16,7 @@ Jogo onde o objetivo é matar o maior número de moscas alienígenas antes do te
 <img src="https://github.com/cesarmanholer/Kill-Fly-Alien/blob/master/image-github/captured.gif">
 
 ### Pré-requisitos
-:warning: Para rodar a aplicação será necessário fazer o download dos arquivos e executar localmente como explicado em [Como rodar a aplicação](https://github.com/cesarmanholer/Kill-Fly-Alien#como-rodar-a-aplicação)
+:warning: Ter um computador com navegador atualizado.
 
 ### Como rodar a aplicação
 Primeiramente clone o repositório
