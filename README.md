@@ -4,7 +4,7 @@
 </p>
 
 ### Topicos:
-:large_blue_diamond: [Descrição do projeto](https://github.com/cesarmanholer/Kill-Fly-Alien/)<br>
+:large_blue_diamond: [Descrição do projeto](https://github.com/cesarmanholer/Kill-Fly-Alien#descri%C3%A7%C3%A3o-do-projeto)<br>
 :large_blue_diamond: [Layout](https://github.com/cesarmanholer/Kill-Fly-Alien/)<br>
 :large_blue_diamond: [Pré-requisitos](https://github.com/cesarmanholer/Kill-Fly-Alien/)<br>
 :large_blue_diamond: [Como rodar a aplicação](https://github.com/cesarmanholer/Kill-Fly-Alien/)<br>
