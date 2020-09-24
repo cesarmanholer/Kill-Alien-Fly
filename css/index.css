@@ -59,3 +59,54 @@ body{
         font-size: 25px;
         color: black;
     }
+
+#formMultiplayer{
+    position: fixed;
+    z-index: 3;
+    height: 50%;
+    margin-top: 15%;
+    margin-left: 25%;
+    overflow: hidden;
+    width: 50%;
+    background-color: #c2c2c2;
+    box-shadow: 0px 0px 5000px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+    #formMultiplayer form{
+        height: auto;
+        width: 100%;
+    }
+
+    #formMultiplayer form h1{
+        text-align: center;
+    }
+    #formMultiplayer form label{
+        margin-left: 7.5%;
+        display: block;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    #formMultiplayer form input[type="text"],#formMultiplayer form input[type="submit"]{
+        width: 85%;
+        height: 30px;
+        margin-left: 7.5%;
+        border-radius: 15px;
+        border: 1px solid black;
+    }
+
+    #formMultiplayer form input[type="submit"]{
+        background-color: #4848e4;
+        color: white;
+        margin-top: 20px;
+    }
+
+    #formMultiplayer form h3{
+        margin-top: 15px;
+        text-align: center;
+    }
