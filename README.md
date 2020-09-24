@@ -37,7 +37,7 @@ Apos baixar abra o arquivo winrar e extraia a pasta Kill-Fly-Alien para um local
 
 Cesar Augusto Manholer
 
-:E-mail: Email: cesarmanholer@hotmail.com
+:e-mail: Email: cesarmanholer@hotmail.com
 
 <a href="https://www.facebook.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=blue&style=for-the-badge"/></a>
 <a href="https://www.instagram.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=red&style=for-the-badge"/></a>
