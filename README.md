@@ -10,13 +10,13 @@
 :large_blue_diamond: [Como rodar a aplicação](https://github.com/cesarmanholer/Kill-Fly-Alien#como-rodar-a-aplicação)<br>
 
 ### Descrição do projeto
-Jogo onde o objetivo é matar o maior numero de moscas alienigenas ate o tempo acabar, é possivel jogar no modo single player onde há somente um jogador ou no modo multiplayer onde é possivel competir com algum amigo.
+Jogo onde o objetivo é matar o maior numero de moscas alienigenas antes do tempo acabar.
 
 ### Layout
 <img src="https://github.com/cesarmanholer/Kill-Fly-Alien/blob/master/captured.gif">
 
 ### Pré-requisitos
-:warning: Para rodar a plicação é necessario ter instalado alguma ferramenta que execute scripts PHP na versão 7.x.x, recomendo o [Xampp](https://www.apachefriends.org/pt_br/index.html).
+:warning: Para rodar a aplicação será necessaio fazer o download dos arquivos e executar localmente como explico em [Como rodar a aplicação](https://github.com/cesarmanholer/Kill-Fly-Alien#como-rodar-a-aplicação)
 
 ### Como rodar a aplicação
 Primeiramente clone o repositorio
@@ -31,7 +31,7 @@ Feito isso o repositorio sera clonado na pasta **downloads**, vá ate a pasta **
 - Ou acesse o link abaixo e clique em code, após isso clique em Download ZIP e ele devera começar a baixar os arquivos
 > https://github.com/cesarmanholer/Kill-Fly-Alien.git
 
-Apos baixar abra o arquivo winrar e extraia a pasta Kill-Fly-Alien para um local de sua escolha, feito isso abra esta pasta e execute o arquivo **index.html**.
+Apos baixar, abra o arquivo winrar e extraia a pasta Kill-Fly-Alien para um local de sua escolha, feito isso abra esta pasta e execute o arquivo **index.html**.
 
 ### Autor
 
