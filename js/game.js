@@ -22,8 +22,8 @@ function timerCount(){
 
 function initializeGame(){
     document.getElementById('bug').style.display = "initial";
-    document.getElementById('bug').style.marginTop = Math.floor(Math.random() * windowY) + 115 + "px";
-    document.getElementById('bug').style.marginLeft = Math.floor(Math.random() * windowX) + 115 + "px";
+    document.getElementById('bug').style.marginTop = Math.floor(Math.random() * windowY) - 115 + "px";
+    document.getElementById('bug').style.marginLeft = Math.floor(Math.random() * windowX) - 115 + "px";
     timerEndGame = setInterval(endGame,1000);
 }
 
@@ -31,7 +31,9 @@ function killBug(){
     score++;
     document.getElementById('score').innerHTML = "Score: " + score;
     posY = Math.floor(Math.random() * windowY) + 10;
+    posY = posY < 0 ? 0 :posY;
     posX = Math.floor(Math.random() * windowX) + 10;
+    posX = posX < 0 ? 0 :posX;
     document.getElementById('bug').style.marginTop = posY + "px";
     document.getElementById('bug').style.marginLeft = posX + "px";
 }
@@ -45,7 +47,7 @@ function endGame(){
         document.getElementById('timerBar').style.display = "none";
         document.getElementById('numberProgress').style.display = "none";
         document.getElementById('timerProgress').style.display = "none";
-        document.getElementById('timer').innerHTML = "<p style='font-size: 100px; text-align: center;'>End of the Game</p><p style='font-size: 50px; text-align: center;'>Final Score: " + score + "</p><p style='font-size: 30px; text-align: center; color: blue; text-decoration: underline; cursor: pointer;'><a href='index.php'>Return to the Lobby</a></p>";
+        document.getElementById('timer').innerHTML = "<p style='font-size: 100px; text-align: center;'>End of the Game</p><p style='font-size: 50px; text-align: center;'>Final Score: " + score + "</p><p style='font-size: 30px; text-align: center; color: blue; text-decoration: underline; cursor: pointer;'><a href='index.html'>Return to the Lobby</a></p>";
         clearInterval(timerEndGame);
     }else{
         end--;
