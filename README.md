@@ -24,21 +24,20 @@ Primeiramente clone o repositorio
 > cd downloads<br>
 > git clone https://github.com/cesarmanholer/Kill-Fly-Alien.git
 
-Feito isso o repositorio sera clonado na pasta downloads
+Feito isso o repositorio sera clonado na pasta **downloads**, vá ate a pasta **downloads** e localize a pasta **Kill-Fly-Alien**, com a pasta aberta localize o arquivo **index.html** e execute.
+
+<h2>OU</h2>
 
 - Ou acesse o link abaixo e clique em code, após isso clique em Download ZIP e ele devera começar a baixar os arquivos
 > https://github.com/cesarmanholer/Kill-Fly-Alien.git
 
-Apos clonado o repositorio sera necessario colocar os arquivos em seu devido lugar
-
-Caso tenha baixado o [Xampp](https://www.apachefriends.org/pt_br/index.html) vá até a pasta onde ele foi instalado (Caso tenha instalado no local padrão vá para C:/xampp),
-Apos acessar a pasta vá ate htdocs, apague todos os arquivos desta pasta e coloque o repositorio baixado nele, feito isso basta abrir o xampp (Caso não haja um icone na area de trabalho basta acessar C:/xampp/xampp-control.exe), quando o painel de controle do xampp abrir clique em start no apache, apos ficar verde acesse http://localhost/ e ja devera ver o projeto.
+Apos baixar abra o arquivo winrar e extraia a pasta Kill-Fly-Alien para um local de sua escolha, feito isso abra esta pasta e execute o arquivo **index.html**.
 
 ### Autor
 
 Cesar Augusto Manholer
 
-:email: Email: cesarmanholer@hotmail.com
+:E-mail: Email: cesarmanholer@hotmail.com
 
 <a href="https://www.facebook.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=blue&style=for-the-badge"/></a>
 <a href="https://www.instagram.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=red&style=for-the-badge"/></a>
