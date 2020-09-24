@@ -7,12 +7,26 @@
         <meta name="viewport" content="width=device-width, initial-scale=0.8">
     </head>
     <body>
+        <div id="credits">
+            <div id="items">
+                <div>
+                    <button onclick="credits();">X</button>
+                    <h1>Created By Cesar Augusto Manholer</h1>
+                    <a href="https://www.facebook.com/cesaraugusto.manholer/" id="facebook"><img src="image-github/facebook.svg" rel="facebook" height="15px" width="15px"> Facebook</a>
+                    <a href="https://www.instagram.com/cesar_manholer/" id="instagram"><img src="image-github/instagram.svg" rel="instagram" height="15px" width="15px"> Instagram</a>
+                    <a href="https://www.linkedin.com/in/cesarmanholer/" id="linkedin"><img src="image-github/linkedin.svg" rel="linkedin" height="15px" width="15px"> Linkedin</a>
+                    <a href="https://github.com/cesarmanholer/" id="github"><img src="image-github/github.svg" rel="github" height="15px" width="15px"> GitHub</a>
+
+                    <h3>All images used in this project are get in <a href="https://www.freepik.com/">Freepik</a> and <a href="https://www.flaticon.com/">Flaticon</a>, all credits for theys.</h3>
+                </div>
+            </div>
+        </div>
         <div class="containerTop">
             <h1 id="title"><img src="images/bug.png">Kill Alien Fly</h1>
         </div>
         <div class="containerButtons">
             <button id="start" onclick="window.location.href='game.html'">Start</button><br>
-            <button id="about">About</button><br>
+            <button id="btnCredits" onclick="credits();">Credits</button><br>
         </div>
         <script defer src="js/index.js"></script>
     </body>
