@@ -39,8 +39,8 @@ Cesar Augusto Manholer
 
 :e-mail: E-mail: cesarmanholer@hotmail.com
 
-<a href="https://www.facebook.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=blue&style=for-the-badge"/></a>
-<a href="https://www.instagram.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=red&style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge"/></a>
-<a href="https://www.github.com/cesar_manholer"><img src="https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge"/></a>
+<a href="https://www.facebook.com/cesaraugusto.manholer/"><img src="https://img.shields.io/static/v1?label=&message=Facebook&color=blue&style=for-the-badge"/></a>
+<a href="https://www.instagram.com/cesar_manholer/"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=red&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/cesarmanholer/"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge"/></a>
+<a href="https://github.com/cesarmanholer"><img src="https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge"/></a>
 
